@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+
+    <body>
+
+        <ui:composition template="./LabClient.xhtml">
+
+            <ui:define name="stylesheet">
+                <link href="./resources/css/labclient.css" rel="stylesheet" type="text/css" />
+            </ui:define>
+
+            <ui:define name="title">
+                Setup
+            </ui:define>
+
+            <ui:define name="content">
+                #{setupBean.pageLoad()}
+                <h:form>
+                    <table id="setup" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <th colspan="2">Experiment Setups</th>
+                        </tr>
+                        <tr>
+                            <td class="label">
+                                Setup:
+                            </td>
+                            <td class="information">
+                                <h:selectOneMenu styleClass="hselectOneMenu" value="#{setupBean.hsomSetupName}" onchange="form.submit()">
+                                    <f:selectItems value="#{setupBean.setupNames}" />
+                                </h:selectOneMenu>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="label">
+                                &nbsp;
+                            </td>
+                            <td class="description">
+                                <h:outputText value="#{setupBean.hotSetupDescription}" escape="false" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <table id="setup">
+                                    <tr>
+                                        <td class="label">
+                                            SomeParameter:
+                                        </td>
+                                        <td class="information">
+                                            <abbr title="#{setupBean.attrRange}">
+                                                <h:inputText styleClass="hinputtext" value="#{setupBean.hitSomeParameter}" style="width: 60px" />
+                                            </abbr>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="label">
+                                &nbsp;
+                            </td>
+                            <td class="buttons">
+                                <h:commandButton styleClass="hcommandButton" value="Validate" action="#{setupBean.actionValidate()}" />
+                                &nbsp;
+                                <h:commandButton styleClass="hcommandButton" value="Submit" action="#{setupBean.actionSubmit()}" disabled="#{setupBean.hcbSubmitDisabled}" />
+                            </td>
+                        </tr>
+                    </table>
+                </h:form>
+                <p>
+                    <h:outputLabel styleClass="#{setupBean.holMessageClass}" value="#{setupBean.holMessage}" rendered="#{!empty(setupBean.holMessage)}" />
+                </p>
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>

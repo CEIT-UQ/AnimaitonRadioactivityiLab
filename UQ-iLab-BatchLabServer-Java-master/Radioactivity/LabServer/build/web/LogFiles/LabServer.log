@@ -1,0 +1,4250 @@
+五月 02, 2013 9:27:09 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 02, 2013 9:27:09 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 02, 2013 9:27:09 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 02, 2013 9:27:09 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 02, 2013 9:27:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 02, 2013 9:27:11 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 02, 2013 9:27:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 02, 2013 9:27:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 02, 2013 9:27:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 02, 2013 9:27:12 下午 
+SEVERE: java.lang.NullPointerException
+五月 02, 2013 9:27:12 下午 
+INFO:  Revert to waiting - ExperimentId: 72  SbName: 'localhost'
+五月 02, 2013 9:27:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 02, 2013 9:27:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 02, 2013 9:27:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 02, 2013 9:27:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 02, 2013 9:27:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 02, 2013 9:27:54 下午 
+INFO: ExperimentId: 73  SbName: 'localhost'
+五月 02, 2013 9:27:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 02, 2013 9:30:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 02, 2013 9:30:48 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 02, 2013 9:31:21 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 02, 2013 9:31:21 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 02, 2013 9:31:21 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 02, 2013 9:31:21 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 02, 2013 9:31:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 02, 2013 9:31:22 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 02, 2013 9:31:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 02, 2013 9:31:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 02, 2013 9:31:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 02, 2013 9:31:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 02, 2013 9:31:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 02, 2013 9:31:23 下午 
+SEVERE: java.lang.NullPointerException
+五月 02, 2013 9:31:23 下午 
+INFO:  Revert to waiting - ExperimentId: 72  SbName: 'localhost'
+五月 02, 2013 9:31:25 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 55
+五月 02, 2013 9:31:45 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 35
+五月 02, 2013 9:32:02 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 02, 2013 9:32:06 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 4
+五月 02, 2013 9:32:08 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 2
+五月 02, 2013 9:32:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 20
+五月 02, 2013 9:32:20 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 02, 2013 9:32:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 02, 2013 9:32:27 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 02, 2013 9:32:29 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:32:31 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:32:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:32:35 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:32:37 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:32:39 下午 
+INFO: ExperimentId: 73  SbName: 'localhost'
+五月 02, 2013 9:32:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 73
+五月 02, 2013 9:32:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 02, 2013 9:32:40 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 40
+五月 02, 2013 9:33:00 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 17
+五月 02, 2013 9:33:08 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 9
+五月 02, 2013 9:33:12 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 5
+五月 02, 2013 9:33:14 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 02, 2013 9:33:16 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 02, 2013 9:33:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 15
+五月 02, 2013 9:33:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 8
+五月 02, 2013 9:33:29 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 02, 2013 9:33:31 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 02, 2013 9:33:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:35 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:37 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:39 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:41 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:43 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:45 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:47 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:49 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 02, 2013 9:33:52 下午 
+INFO: ExperimentId: 72  SbName: 'localhost'
+五月 02, 2013 9:33:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 72
+五月 02, 2013 9:33:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 02, 2013 9:35:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 02, 2013 9:35:02 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 03, 2013 3:32:00 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 03, 2013 3:32:00 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 03, 2013 3:32:00 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 03, 2013 3:32:00 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 03, 2013 3:32:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 03, 2013 3:32:01 下午 
+SEVERE: org.postgresql.util.PSQLException: 连线被拒，请检查主机名称和埠号，并确定 postmaster 可以接受 TCP/IP 连线。
+五月 03, 2013 3:32:01 下午 
+SEVERE: org.postgresql.util.PSQLException: 连线被拒，请检查主机名称和埠号，并确定 postmaster 可以接受 TCP/IP 连线。
+五月 03, 2013 3:32:01 下午 
+SEVERE: org.postgresql.util.PSQLException: 连线被拒，请检查主机名称和埠号，并确定 postmaster 可以接受 TCP/IP 连线。
+五月 03, 2013 3:32:01 下午 
+SEVERE: org.postgresql.util.PSQLException: 连线被拒，请检查主机名称和埠号，并确定 postmaster 可以接受 TCP/IP 连线。
+五月 03, 2013 3:32:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 03, 2013 3:32:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 03, 2013 3:32:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 03, 2013 3:33:20 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 03, 2013 3:33:20 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 03, 2013 3:33:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 03, 2013 3:33:29 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 03, 2013 3:34:00 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 03, 2013 3:34:00 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 03, 2013 3:34:00 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 03, 2013 3:34:00 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 03, 2013 3:34:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 03, 2013 3:34:02 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 03, 2013 3:34:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 03, 2013 3:34:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 03, 2013 3:34:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 03, 2013 3:34:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 03, 2013 3:34:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 03, 2013 3:34:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 03, 2013 3:34:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 03, 2013 3:34:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 03, 2013 3:34:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 03, 2013 3:34:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 03, 2013 3:34:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 03, 2013 3:34:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 03, 2013 3:34:41 下午 
+INFO: ExperimentId: 74  SbName: 'localhost'
+五月 03, 2013 3:34:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 03, 2013 3:34:43 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 55
+五月 03, 2013 3:35:03 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 35
+五月 03, 2013 3:35:20 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 03, 2013 3:35:24 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 03, 2013 3:35:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 03, 2013 3:35:38 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 03, 2013 3:35:40 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 03, 2013 3:35:42 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:35:44 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:35:46 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:35:48 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:35:50 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:35:52 下午 
+INFO: ExperimentId: 74  SbName: 'localhost'
+五月 03, 2013 3:35:53 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 74
+五月 03, 2013 3:35:53 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 03, 2013 3:36:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 03, 2013 3:36:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 03, 2013 3:36:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 03, 2013 3:36:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 74
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 74 SbName: localhost
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 03, 2013 3:36:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 03, 2013 3:36:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 74
+五月 03, 2013 3:36:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 03, 2013 3:36:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 03, 2013 3:36:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 03, 2013 3:36:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 03, 2013 3:36:50 下午 
+INFO: ExperimentId: 75  SbName: 'localhost'
+五月 03, 2013 3:36:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 03, 2013 3:36:52 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 55
+五月 03, 2013 3:37:12 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 35
+五月 03, 2013 3:37:29 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 03, 2013 3:37:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 03, 2013 3:37:42 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 03, 2013 3:37:47 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 03, 2013 3:37:49 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 03, 2013 3:37:51 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:37:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:37:55 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 03, 2013 3:37:57 下午 
+INFO: ExperimentId: 75  SbName: 'localhost'
+五月 03, 2013 3:37:57 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 75
+五月 03, 2013 3:37:57 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 03, 2013 3:42:53 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 03, 2013 3:42:53 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 09, 2013 1:56:48 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 09, 2013 1:56:48 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 09, 2013 1:56:48 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 09, 2013 1:56:48 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 09, 2013 1:56:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 09, 2013 1:56:51 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 09, 2013 1:56:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 09, 2013 1:56:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 09, 2013 1:56:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 09, 2013 1:56:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 09, 2013 1:56:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 09, 2013 1:57:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 09, 2013 1:57:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 09, 2013 1:57:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 09, 2013 1:57:38 下午 
+INFO: ExperimentId: 76  SbName: 'localhost'
+五月 09, 2013 1:57:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 09, 2013 1:57:39 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 71
+五月 09, 2013 1:57:59 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 51
+五月 09, 2013 1:58:19 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 09, 2013 1:58:25 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 09, 2013 1:58:28 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 4
+五月 09, 2013 1:58:30 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 28
+五月 09, 2013 1:58:44 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 14
+五月 09, 2013 1:58:51 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 09, 2013 1:58:55 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 09, 2013 1:58:57 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 09, 2013 1:58:59 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:03 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 09, 2013 1:59:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 09, 2013 1:59:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 09, 2013 1:59:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 76
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 76 SbName: localhost
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 71  RemainingRuntime: 1
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 09, 2013 1:59:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 09, 2013 1:59:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 1:59:13 下午 
+INFO: ExperimentId: 76  SbName: 'localhost'
+五月 09, 2013 1:59:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 76
+五月 09, 2013 1:59:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 09, 2013 1:59:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 09, 2013 1:59:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 09, 2013 1:59:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 09, 2013 1:59:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 76
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 76 SbName: localhost
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 09, 2013 1:59:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 09, 2013 1:59:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 76
+五月 09, 2013 1:59:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 09, 2013 2:00:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 09, 2013 2:00:00 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 09, 2013 2:00:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 09, 2013 2:00:03 下午 
+INFO: ExperimentId: 77  SbName: 'localhost'
+五月 09, 2013 2:00:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 09, 2013 2:00:04 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 69
+五月 09, 2013 2:00:24 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 49
+五月 09, 2013 2:00:44 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 12
+五月 09, 2013 2:00:50 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 09, 2013 2:00:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 26
+五月 09, 2013 2:01:06 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 09, 2013 2:01:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 09, 2013 2:01:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 09, 2013 2:01:17 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 09, 2013 2:01:19 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 2:01:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 2:01:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 2:01:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 09, 2013 2:01:27 下午 
+INFO: ExperimentId: 77  SbName: 'localhost'
+五月 09, 2013 2:01:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 77
+五月 09, 2013 2:01:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 09, 2013 2:10:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 09, 2013 2:11:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 09, 2013 2:11:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 09, 2013 2:11:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 09, 2013 2:18:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 09, 2013 2:18:28 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 12, 2013 12:40:55 上午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 12, 2013 12:40:55 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 12, 2013 12:40:55 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 12, 2013 12:40:55 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 12, 2013 12:40:55 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 12, 2013 12:40:58 上午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 12, 2013 12:40:58 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 12, 2013 12:40:58 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 12, 2013 12:40:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 12, 2013 12:40:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 12, 2013 12:40:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 12, 2013 12:41:28 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 12, 2013 12:41:30 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 12, 2013 12:41:35 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 12, 2013 12:41:38 上午 
+INFO: ExperimentId: 78  SbName: 'localhost'
+五月 12, 2013 12:41:38 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 12, 2013 12:41:40 上午 
+INFO: ExecuteStatus: Created  TimeRemaining: 55
+五月 12, 2013 12:42:00 上午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 35
+五月 12, 2013 12:42:17 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 12
+五月 12, 2013 12:42:23 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 12, 2013 12:42:26 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 12, 2013 12:42:28 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:30 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:32 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:34 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:36 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:38 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:40 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:42 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:44 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:46 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:48 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:50 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:52 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 12, 2013 12:42:54 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 12, 2013 12:43:03 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 12, 2013 12:43:08 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 12, 2013 12:43:10 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 12, 2013 12:43:13 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:15 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:17 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:19 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:21 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:23 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:25 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:27 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:29 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:31 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:33 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:35 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:43:37 上午 
+SEVERE: uq.ilabs.library.lab.utilities.XmlUtilitiesException: XML string is not specified!
+五月 12, 2013 12:43:37 上午 
+INFO: ExperimentId: 78  SbName: 'localhost'
+五月 12, 2013 12:43:37 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 78
+五月 12, 2013 12:43:37 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 12, 2013 12:44:48 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 12, 2013 12:44:48 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 12, 2013 12:55:42 上午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 12, 2013 12:55:42 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 12, 2013 12:55:42 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 12, 2013 12:55:42 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 12, 2013 12:55:42 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 12, 2013 12:55:44 上午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 12, 2013 12:55:45 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 12, 2013 12:55:45 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 12, 2013 12:55:45 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 12, 2013 12:55:45 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 12, 2013 12:55:45 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 12, 2013 12:56:31 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 12, 2013 12:56:32 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 12, 2013 12:56:34 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 12, 2013 12:56:35 上午 
+INFO: ExperimentId: 79  SbName: 'localhost'
+五月 12, 2013 12:56:35 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 12, 2013 12:56:36 上午 
+INFO: ExecuteStatus: Created  TimeRemaining: 62
+五月 12, 2013 12:56:56 上午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 42
+五月 12, 2013 12:57:16 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 14
+五月 12, 2013 12:57:23 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 12, 2013 12:57:27 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 4
+五月 12, 2013 12:57:29 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 2
+五月 12, 2013 12:57:31 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 17
+五月 12, 2013 12:57:39 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 9
+五月 12, 2013 12:57:43 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 12, 2013 12:57:45 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 12, 2013 12:57:47 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:57:49 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:57:51 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:57:53 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:57:55 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:57:57 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 12, 2013 12:57:59 上午 
+INFO: ExperimentId: 79  SbName: 'localhost'
+五月 12, 2013 12:57:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 79
+五月 12, 2013 12:57:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 12, 2013 1:14:03 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 12, 2013 1:14:04 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 12, 2013 1:14:04 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 12, 2013 1:14:04 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 12, 2013 1:17:57 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 12, 2013 1:17:57 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 12, 2013 1:51:04 上午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 12, 2013 1:51:04 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 12, 2013 1:51:04 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 12, 2013 1:51:04 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 12, 2013 1:51:04 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 12, 2013 1:51:06 上午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 12, 2013 1:51:06 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 12, 2013 1:51:06 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 12, 2013 1:51:06 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 12, 2013 1:51:06 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 12, 2013 1:51:06 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 12, 2013 1:52:04 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 12, 2013 1:52:05 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 12, 2013 1:53:44 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 12, 2013 1:53:44 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 14, 2013 12:33:28 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 14, 2013 12:33:28 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 14, 2013 12:33:28 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 14, 2013 12:33:28 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 14, 2013 12:33:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 14, 2013 12:33:31 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 14, 2013 12:33:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 14, 2013 12:33:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 12:33:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 12:33:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 14, 2013 12:33:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 14, 2013 12:34:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 12:34:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 12:34:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 14, 2013 12:34:23 下午 
+INFO: ExperimentId: 80  SbName: 'localhost'
+五月 14, 2013 12:34:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 14, 2013 12:34:25 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 69
+五月 14, 2013 12:34:45 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 49
+五月 14, 2013 12:35:05 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 29
+五月 14, 2013 12:35:19 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 15
+五月 14, 2013 12:35:26 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 8
+五月 14, 2013 12:35:30 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 4
+五月 14, 2013 12:35:32 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 2
+五月 14, 2013 12:35:34 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:36 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:38 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:40 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 14, 2013 12:35:42 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:44 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:46 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:48 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:50 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:52 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:55 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:57 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:35:59 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:01 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:03 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:05 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:07 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:09 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:11 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:13 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:15 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:17 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:19 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:21 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:23 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:25 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:27 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:29 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:31 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:33 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 14, 2013 12:36:35 下午 
+SEVERE: uq.ilabs.library.lab.utilities.XmlUtilitiesException: XML string is not specified!
+五月 14, 2013 12:36:35 下午 
+INFO: ExperimentId: 80  SbName: 'localhost'
+五月 14, 2013 12:36:36 下午 
+SEVERE: com.sun.xml.ws.client.ClientTransportException: 服务器发送了 HTTP 状态代码 503: Service Unavailable
+五月 14, 2013 12:36:36 下午 
+SEVERE: javax.xml.ws.ProtocolException: ServiceBroker is unaccessible!
+五月 14, 2013 12:36:36 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 14, 2013 12:46:51 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 14, 2013 12:46:51 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 14, 2013 12:46:51 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 14, 2013 12:46:51 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 14, 2013 12:46:51 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 14, 2013 12:46:54 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 14, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 14, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 14, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 14, 2013 12:46:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 80
+五月 14, 2013 12:46:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 12:48:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 12:48:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 12:48:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 12:48:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 12:48:51 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 14, 2013 12:48:51 下午 
+INFO: ExperimentId: 81  SbName: 'localhost'
+五月 14, 2013 12:48:51 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 14, 2013 12:48:52 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 14, 2013 12:49:12 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 14, 2013 12:49:32 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 14, 2013 12:49:38 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 14, 2013 12:49:41 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 23
+五月 14, 2013 12:49:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 14, 2013 12:49:59 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 14, 2013 12:50:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 14, 2013 12:50:04 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 12:50:06 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 12:50:08 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 12:50:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 12:50:12 下午 
+INFO: ExperimentId: 81  SbName: 'localhost'
+五月 14, 2013 12:50:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 81
+五月 14, 2013 12:50:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 12:50:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 12:50:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 12:50:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 12:50:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 81
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 81 SbName: localhost
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 12:50:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 12:50:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 81
+五月 14, 2013 12:50:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 1:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:04:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:04:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:04:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:04:23 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:05:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:05:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:05:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 14, 2013 1:05:15 下午 
+INFO: ExperimentId: 82  SbName: 'localhost'
+五月 14, 2013 1:05:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 14, 2013 1:05:16 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 14, 2013 1:05:36 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 14, 2013 1:05:54 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 14, 2013 1:06:00 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 15
+五月 14, 2013 1:06:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 8
+五月 14, 2013 1:06:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 14, 2013 1:06:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 14, 2013 1:06:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:06:17 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:06:20 下午 
+INFO: ExperimentId: 82  SbName: 'localhost'
+五月 14, 2013 1:06:20 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 82
+五月 14, 2013 1:06:20 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 1:10:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 1:10:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 1:10:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 1:10:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 82
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 82 SbName: localhost
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 1:10:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 1:10:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 82
+五月 14, 2013 1:10:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 1:10:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:10:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:10:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 14, 2013 1:10:47 下午 
+INFO: ExperimentId: 83  SbName: 'localhost'
+五月 14, 2013 1:10:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 14, 2013 1:10:48 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 78
+五月 14, 2013 1:11:08 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 58
+五月 14, 2013 1:11:28 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 22
+五月 14, 2013 1:11:39 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 11
+五月 14, 2013 1:11:44 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 14, 2013 1:11:47 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 14, 2013 1:11:49 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 14, 2013 1:11:51 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 14, 2013 1:11:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 25
+五月 14, 2013 1:12:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 14, 2013 1:12:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 14, 2013 1:12:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 14, 2013 1:12:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 14, 2013 1:12:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:12:20 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:12:22 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:12:24 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:12:26 下午 
+INFO: ExperimentId: 83  SbName: 'localhost'
+五月 14, 2013 1:12:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 83
+五月 14, 2013 1:12:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 1:19:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:19:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:19:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 1:19:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 1:19:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 1:19:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 1:19:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 1:19:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 1:19:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 1:19:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 83
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 83 SbName: localhost
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 14, 2013 1:19:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 14, 2013 1:19:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 83
+五月 14, 2013 1:19:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 1:19:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 14, 2013 1:19:26 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 14, 2013 1:19:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 14, 2013 1:19:30 下午 
+INFO: ExperimentId: 84  SbName: 'localhost'
+五月 14, 2013 1:19:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 14, 2013 1:19:31 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 14, 2013 1:19:51 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 14, 2013 1:20:09 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 14, 2013 1:20:15 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 14, 2013 1:20:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 14, 2013 1:20:24 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 14, 2013 1:20:27 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 14, 2013 1:20:29 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:20:31 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:20:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 14, 2013 1:20:35 下午 
+INFO: ExperimentId: 84  SbName: 'localhost'
+五月 14, 2013 1:20:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 84
+五月 14, 2013 1:20:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 14, 2013 1:32:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 14, 2013 1:32:56 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 15, 2013 11:17:57 上午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 15, 2013 11:17:57 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 15, 2013 11:17:57 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 15, 2013 11:17:57 上午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 15, 2013 11:17:57 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 15, 2013 11:18:00 上午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 15, 2013 11:18:01 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 15, 2013 11:18:01 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:18:01 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:18:01 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 15, 2013 11:18:01 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 15, 2013 11:19:02 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 15, 2013 11:19:02 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 15, 2013 11:19:26 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 15, 2013 11:19:27 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 15, 2013 11:19:51 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:19:51 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:19:51 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:19:51 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:19:53 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:19:53 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:19:53 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:19:53 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:19:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:19:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:20:00 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:20:00 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:20:02 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:20:02 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:20:02 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:20:02 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:20:19 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:20:19 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:20:19 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:20:19 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:20:33 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 15, 2013 11:20:33 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 15, 2013 11:20:56 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 15, 2013 11:20:56 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 15, 2013 11:21:05 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 15, 2013 11:21:05 上午 
+INFO: ExperimentId: 85  SbName: 'localhost'
+五月 15, 2013 11:21:05 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 15, 2013 11:21:07 上午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 15, 2013 11:21:27 上午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 15, 2013 11:21:45 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 14
+五月 15, 2013 11:21:52 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 15, 2013 11:21:55 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 15, 2013 11:22:01 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 15, 2013 11:22:04 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 15, 2013 11:22:06 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 15, 2013 11:22:08 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 15, 2013 11:22:10 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 15, 2013 11:22:12 上午 
+INFO: ExperimentId: 85  SbName: 'localhost'
+五月 15, 2013 11:22:13 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 85
+五月 15, 2013 11:22:13 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 15, 2013 11:22:17 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:22:17 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:22:17 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:22:17 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:22:19 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 85
+五月 15, 2013 11:22:19 上午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 85 SbName: localhost
+五月 15, 2013 11:22:19 上午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 15, 2013 11:22:19 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 15, 2013 11:22:20 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 15, 2013 11:22:20 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 15, 2013 11:22:20 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 15, 2013 11:22:20 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 15, 2013 11:22:22 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 85
+五月 15, 2013 11:22:22 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 15, 2013 11:22:34 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 15, 2013 11:22:34 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 15, 2013 11:22:37 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 15, 2013 11:22:37 上午 
+INFO: ExperimentId: 86  SbName: 'localhost'
+五月 15, 2013 11:22:37 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 15, 2013 11:22:39 上午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 15, 2013 11:22:59 上午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 15, 2013 11:23:19 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 15, 2013 11:23:27 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 15, 2013 11:23:31 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 4
+五月 15, 2013 11:23:33 上午 
+INFO: ExecuteStatus: Running  TimeRemaining: 2
+五月 15, 2013 11:23:35 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 15, 2013 11:23:44 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 15, 2013 11:23:49 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 15, 2013 11:23:51 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 15, 2013 11:23:53 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 15, 2013 11:23:55 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 15, 2013 11:23:57 上午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 15, 2013 11:23:59 上午 
+INFO: ExperimentId: 86  SbName: 'localhost'
+五月 15, 2013 11:23:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 86
+五月 15, 2013 11:23:59 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 15, 2013 11:29:38 上午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 15, 2013 11:29:38 上午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 18, 2013 9:30:26 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 18, 2013 9:30:26 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 18, 2013 9:30:26 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 18, 2013 9:30:26 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 18, 2013 9:30:26 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 18, 2013 9:30:29 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 18, 2013 9:30:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 18, 2013 9:30:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 9:30:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 9:30:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 18, 2013 9:30:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 18, 2013 9:31:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 18, 2013 9:31:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 18, 2013 9:31:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 18, 2013 9:31:35 下午 
+INFO: ExperimentId: 87  SbName: 'localhost'
+五月 18, 2013 9:31:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 18, 2013 9:31:37 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 18, 2013 9:31:57 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 18, 2013 9:32:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 17
+五月 18, 2013 9:32:25 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 9
+五月 18, 2013 9:32:29 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 5
+五月 18, 2013 9:32:31 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 18, 2013 9:32:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 20
+五月 18, 2013 9:32:43 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 18, 2013 9:32:48 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 18, 2013 9:32:50 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 18, 2013 9:32:52 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 9:32:54 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 9:32:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 9:32:58 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 9:33:00 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 9:33:02 下午 
+INFO: ExperimentId: 87  SbName: 'localhost'
+五月 18, 2013 9:33:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 87
+五月 18, 2013 9:33:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 9:35:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 9:35:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 9:35:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 18, 2013 9:35:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 87
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 87 SbName: localhost
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 18, 2013 9:35:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 18, 2013 9:35:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 87
+五月 18, 2013 9:35:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 9:36:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 18, 2013 9:36:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 18, 2013 9:36:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 18, 2013 9:36:19 下午 
+INFO: ExperimentId: 88  SbName: 'localhost'
+五月 18, 2013 9:36:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 18, 2013 9:36:21 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 93
+五月 18, 2013 9:36:41 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 73
+五月 18, 2013 9:37:01 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 32
+五月 18, 2013 9:37:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 18, 2013 9:37:25 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 18, 2013 9:37:29 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 4
+五月 18, 2013 9:37:31 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 2
+五月 18, 2013 9:37:33 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:35 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:37 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:39 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:41 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:43 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 18, 2013 9:37:45 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:47 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:49 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:51 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:53 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:55 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:57 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:37:59 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:01 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:03 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:05 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:07 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:09 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:11 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:13 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:15 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:20 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:22 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:24 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:26 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:28 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:30 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:32 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:34 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:36 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:38 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:40 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:42 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:44 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:46 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:48 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 9:38:50 下午 
+INFO: Client received SOAP Fault from server: 容器处于STOPPED状态时尝试调用 Please see the server log to find more detail regarding exact cuase of the failure.
+五月 18, 2013 9:38:50 下午 
+SEVERE: uq.ilabs.library.lab.utilities.XmlUtilitiesException: XML string is not specified!
+五月 18, 2013 9:38:50 下午 
+INFO: ExperimentId: 88  SbName: 'localhost'
+五月 18, 2013 9:38:50 下午 
+SEVERE: com.sun.xml.ws.client.ClientTransportException: 服务器发送了 HTTP 状态代码 503: Service Unavailable
+五月 18, 2013 9:38:50 下午 
+SEVERE: javax.xml.ws.ProtocolException: ServiceBroker is unaccessible!
+五月 18, 2013 9:38:50 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 18, 2013 9:58:44 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 18, 2013 9:58:44 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 18, 2013 9:58:44 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 18, 2013 9:58:44 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 18, 2013 9:58:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 18, 2013 9:58:47 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 18, 2013 9:58:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 18, 2013 9:58:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 9:58:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 9:58:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 18, 2013 9:58:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 18, 2013 9:58:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 88
+五月 18, 2013 9:58:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 9:59:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 18, 2013 9:59:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 18, 2013 9:59:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 18, 2013 9:59:36 下午 
+INFO: ExperimentId: 89  SbName: 'localhost'
+五月 18, 2013 9:59:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 18, 2013 9:59:37 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 77
+五月 18, 2013 9:59:57 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 57
+五月 18, 2013 10:00:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 25
+五月 18, 2013 10:00:29 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 18, 2013 10:00:36 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 18, 2013 10:00:39 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 4
+五月 18, 2013 10:00:41 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 2
+五月 18, 2013 10:00:43 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:00:45 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 23
+五月 18, 2013 10:00:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 11
+五月 18, 2013 10:01:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 18, 2013 10:01:04 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 18, 2013 10:01:06 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:01:08 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:01:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:01:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:01:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:01:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:01:18 下午 
+INFO: ExperimentId: 89  SbName: 'localhost'
+五月 18, 2013 10:01:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 89
+五月 18, 2013 10:01:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 10:01:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 10:01:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 10:01:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 18, 2013 10:01:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 89
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 89 SbName: localhost
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 18, 2013 10:01:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 18, 2013 10:01:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 89
+五月 18, 2013 10:01:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 10:01:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 18, 2013 10:01:50 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 18, 2013 10:01:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 18, 2013 10:01:52 下午 
+INFO: ExperimentId: 90  SbName: 'localhost'
+五月 18, 2013 10:01:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 18, 2013 10:01:54 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 72
+五月 18, 2013 10:02:14 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 52
+五月 18, 2013 10:02:34 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 19
+五月 18, 2013 10:02:43 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 10
+五月 18, 2013 10:02:48 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 5
+五月 18, 2013 10:02:50 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 18, 2013 10:02:52 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:02:54 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:02:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 22
+五月 18, 2013 10:03:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 11
+五月 18, 2013 10:03:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 18, 2013 10:03:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 18, 2013 10:03:17 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:03:19 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:03:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:03:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:03:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:03:27 下午 
+INFO: ExperimentId: 90  SbName: 'localhost'
+五月 18, 2013 10:03:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 90
+五月 18, 2013 10:03:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 10:20:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 10:20:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 10:20:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 18, 2013 10:20:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 90
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 90 SbName: localhost
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 18, 2013 10:21:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 18, 2013 10:21:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 90
+五月 18, 2013 10:21:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 10:21:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 18, 2013 10:21:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 18, 2013 10:21:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 18, 2013 10:21:22 下午 
+INFO: ExperimentId: 91  SbName: 'localhost'
+五月 18, 2013 10:21:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 18, 2013 10:21:25 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 78
+五月 18, 2013 10:21:45 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 58
+五月 18, 2013 10:22:05 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 23
+五月 18, 2013 10:22:16 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 11
+五月 18, 2013 10:22:21 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 18, 2013 10:22:24 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 18, 2013 10:22:26 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:28 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:30 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:32 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:34 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:36 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:38 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:40 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:42 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:44 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:46 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 18, 2013 10:22:48 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 25
+五月 18, 2013 10:23:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 18, 2013 10:23:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 18, 2013 10:23:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 18, 2013 10:23:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 18, 2013 10:23:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:20 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:22 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:24 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:26 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:28 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:30 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 18, 2013 10:23:32 下午 
+INFO: ExperimentId: 91  SbName: 'localhost'
+五月 18, 2013 10:23:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 91
+五月 18, 2013 10:23:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 18, 2013 10:26:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 18, 2013 10:26:52 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 20, 2013 3:53:59 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 20, 2013 3:53:59 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 20, 2013 3:53:59 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 20, 2013 3:53:59 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 20, 2013 3:53:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 20, 2013 3:54:02 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 20, 2013 3:54:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 20, 2013 3:54:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 20, 2013 3:54:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 20, 2013 3:54:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 20, 2013 3:54:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 20, 2013 3:55:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 20, 2013 3:55:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 20, 2013 3:55:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 20, 2013 3:55:44 下午 
+INFO: ExperimentId: 92  SbName: 'localhost'
+五月 20, 2013 3:55:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 20, 2013 3:55:46 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 137
+五月 20, 2013 3:56:06 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 117
+五月 20, 2013 3:56:26 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 92
+五月 20, 2013 3:56:46 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 72
+五月 20, 2013 3:57:06 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 52
+五月 20, 2013 3:57:26 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 32
+五月 20, 2013 3:57:42 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 20, 2013 3:57:50 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 20, 2013 3:57:54 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 33
+五月 20, 2013 3:58:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 17
+五月 20, 2013 3:58:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 9
+五月 20, 2013 3:58:22 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 20, 2013 3:58:24 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 20, 2013 3:58:26 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 20, 2013 3:58:28 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 20, 2013 3:58:30 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 20, 2013 3:58:32 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 20, 2013 3:58:34 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 20, 2013 3:58:36 下午 
+INFO: ExperimentId: 92  SbName: 'localhost'
+五月 20, 2013 3:58:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 92
+五月 20, 2013 3:58:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 20, 2013 4:02:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 20, 2013 4:02:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 20, 2013 4:02:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 20, 2013 4:02:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 21, 2013 2:35:27 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 21, 2013 2:35:27 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 21, 2013 2:35:27 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 21, 2013 2:35:27 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 21, 2013 2:35:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 21, 2013 2:35:29 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 21, 2013 2:35:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 21, 2013 2:35:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 21, 2013 2:35:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 21, 2013 2:35:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 21, 2013 2:35:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 21, 2013 2:35:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 21, 2013 2:35:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 21, 2013 2:36:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 21, 2013 2:36:08 下午 
+INFO: ExperimentId: 93  SbName: 'localhost'
+五月 21, 2013 2:36:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 21, 2013 2:36:09 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 21, 2013 2:36:29 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 21, 2013 2:36:47 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 21, 2013 2:36:53 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 21, 2013 2:36:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 21, 2013 2:37:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 21, 2013 2:37:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 21, 2013 2:37:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:37:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:37:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:37:14 下午 
+INFO: ExperimentId: 93  SbName: 'localhost'
+五月 21, 2013 2:37:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 93
+五月 21, 2013 2:37:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 21, 2013 2:38:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 21, 2013 2:38:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 21, 2013 2:38:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 21, 2013 2:38:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 93
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 93 SbName: localhost
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 21, 2013 2:38:03 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 21, 2013 2:38:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 21, 2013 2:38:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 21, 2013 2:38:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 21, 2013 2:38:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 21, 2013 2:38:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 93
+五月 21, 2013 2:38:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 21, 2013 2:38:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 21, 2013 2:38:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 21, 2013 2:38:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 21, 2013 2:38:48 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 21, 2013 2:38:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 21, 2013 2:38:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 21, 2013 2:39:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 21, 2013 2:39:05 下午 
+INFO: ExperimentId: 94  SbName: 'localhost'
+五月 21, 2013 2:39:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 21, 2013 2:39:06 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 114
+五月 21, 2013 2:39:26 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 94
+五月 21, 2013 2:39:46 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 40
+五月 21, 2013 2:40:06 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 20
+五月 21, 2013 2:40:16 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 10
+五月 21, 2013 2:40:21 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 5
+五月 21, 2013 2:40:23 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 21, 2013 2:40:25 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 21, 2013 2:40:27 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 1
+五月 21, 2013 2:40:29 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 44
+五月 21, 2013 2:40:49 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 24
+五月 21, 2013 2:41:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 21, 2013 2:41:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 21, 2013 2:41:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 21, 2013 2:41:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:19 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 21, 2013 2:41:27 下午 
+INFO: ExperimentId: 94  SbName: 'localhost'
+五月 21, 2013 2:41:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 94
+五月 21, 2013 2:41:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 21, 2013 2:41:49 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 21, 2013 2:41:49 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 21, 2013 2:44:16 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 21, 2013 2:44:16 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 21, 2013 2:44:16 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 21, 2013 2:44:16 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 21, 2013 2:44:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 21, 2013 2:44:19 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 21, 2013 2:44:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 21, 2013 2:44:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 21, 2013 2:44:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 21, 2013 2:44:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 21, 2013 2:44:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 21, 2013 2:45:52 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 21, 2013 2:45:52 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 21, 2013 2:47:39 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 21, 2013 2:47:39 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 21, 2013 2:47:39 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 21, 2013 2:47:39 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 21, 2013 2:47:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 21, 2013 2:47:41 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 21, 2013 2:47:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 21, 2013 2:47:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 21, 2013 2:47:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 21, 2013 2:47:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 21, 2013 2:47:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 21, 2013 2:48:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 21, 2013 2:48:40 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 23, 2013 1:36:09 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 23, 2013 1:36:09 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 23, 2013 1:36:09 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 23, 2013 1:36:09 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 23, 2013 1:36:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 23, 2013 1:36:12 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 23, 2013 1:36:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 23, 2013 1:36:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 1:36:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 1:36:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 23, 2013 1:36:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 23, 2013 1:36:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 1:36:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 1:36:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 1:36:59 下午 
+INFO: ExperimentId: 95  SbName: 'localhost'
+五月 23, 2013 1:36:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 1:37:01 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 23, 2013 1:37:21 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 23, 2013 1:37:41 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 23, 2013 1:37:49 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 23, 2013 1:37:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 23, 2013 1:38:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 23, 2013 1:38:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 23, 2013 1:38:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 1:38:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:38:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:38:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:38:17 下午 
+INFO: ExperimentId: 95  SbName: 'localhost'
+五月 23, 2013 1:38:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 95
+五月 23, 2013 1:38:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 1:38:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 1:38:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 1:38:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 1:38:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 95
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 95 SbName: localhost
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 1:38:41 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 1:38:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 95
+五月 23, 2013 1:38:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 1:40:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 1:40:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 1:40:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 1:40:37 下午 
+INFO: ExperimentId: 96  SbName: 'localhost'
+五月 23, 2013 1:40:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 1:40:39 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 157
+五月 23, 2013 1:40:59 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 137
+五月 23, 2013 1:41:19 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 112
+五月 23, 2013 1:41:39 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 92
+五月 23, 2013 1:41:59 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 72
+五月 23, 2013 1:42:19 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 51
+五月 23, 2013 1:42:39 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 31
+五月 23, 2013 1:42:54 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 39
+五月 23, 2013 1:43:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 20
+五月 23, 2013 1:43:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 23, 2013 1:43:28 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 23, 2013 1:43:30 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 23, 2013 1:43:32 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:43:34 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:43:36 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:43:38 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:43:40 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:43:43 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:43:45 下午 
+INFO: ExperimentId: 96  SbName: 'localhost'
+五月 23, 2013 1:43:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 96
+五月 23, 2013 1:43:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 1:55:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 1:55:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 1:55:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 1:55:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 96
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 96 SbName: localhost
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 1:55:14 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 1:55:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 96
+五月 23, 2013 1:55:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 1:55:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 1:55:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 1:55:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 1:55:28 下午 
+INFO: ExperimentId: 97  SbName: 'localhost'
+五月 23, 2013 1:55:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 1:55:29 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 23, 2013 1:55:49 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 23, 2013 1:56:09 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 23, 2013 1:56:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 23, 2013 1:56:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 23, 2013 1:56:30 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 23, 2013 1:56:36 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 23, 2013 1:56:38 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 1:56:40 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:56:42 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:56:44 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 1:56:46 下午 
+INFO: ExperimentId: 97  SbName: 'localhost'
+五月 23, 2013 1:56:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 97
+五月 23, 2013 1:56:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:04:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:04:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:04:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 23, 2013 2:04:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 23, 2013 2:05:26 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 2:05:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 2:05:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 2:05:29 下午 
+INFO: ExperimentId: 98  SbName: 'localhost'
+五月 23, 2013 2:05:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 2:05:31 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 23, 2013 2:05:51 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 23, 2013 2:06:11 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 23, 2013 2:06:19 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 23, 2013 2:06:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 20
+五月 23, 2013 2:06:33 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 23, 2013 2:06:38 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 23, 2013 2:06:40 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 2:06:42 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:06:44 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:06:46 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:06:48 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:06:50 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:06:52 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:06:54 下午 
+INFO: ExperimentId: 98  SbName: 'localhost'
+五月 23, 2013 2:06:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:06:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:06:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 98
+五月 23, 2013 2:06:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:06:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:06:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 98
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 98 SbName: localhost
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:06:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:06:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 98
+五月 23, 2013 2:06:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:07:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 2:07:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 2:07:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 2:07:09 下午 
+INFO: ExperimentId: 99  SbName: 'localhost'
+五月 23, 2013 2:07:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 2:07:10 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 51
+五月 23, 2013 2:07:30 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 31
+五月 23, 2013 2:07:45 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 23, 2013 2:07:51 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 23, 2013 2:07:57 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 23, 2013 2:08:00 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 2:08:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:08:04 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:08:06 下午 
+INFO: ExperimentId: 99  SbName: 'localhost'
+五月 23, 2013 2:08:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 99
+五月 23, 2013 2:08:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:08:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:08:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:08:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:08:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 99
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 99 SbName: localhost
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:08:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:08:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 99
+五月 23, 2013 2:08:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:08:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 2:08:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 2:08:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 2:08:27 下午 
+INFO: ExperimentId: 100  SbName: 'localhost'
+五月 23, 2013 2:08:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 2:08:28 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 50
+五月 23, 2013 2:08:48 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 30
+五月 23, 2013 2:09:03 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 23, 2013 2:09:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 23, 2013 2:09:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 23, 2013 2:09:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 2:09:20 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:09:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:09:25 下午 
+INFO: ExperimentId: 100  SbName: 'localhost'
+五月 23, 2013 2:09:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 100
+五月 23, 2013 2:09:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:09:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:09:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:09:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:09:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 100
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 100 SbName: localhost
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:09:31 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:09:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 100
+五月 23, 2013 2:09:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:09:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 2:09:46 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 2:09:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 2:09:47 下午 
+INFO: ExperimentId: 101  SbName: 'localhost'
+五月 23, 2013 2:09:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 2:09:49 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 72
+五月 23, 2013 2:10:09 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 52
+五月 23, 2013 2:10:29 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 19
+五月 23, 2013 2:10:38 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 10
+五月 23, 2013 2:10:43 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 5
+五月 23, 2013 2:10:45 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 23
+五月 23, 2013 2:10:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 23, 2013 2:11:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 23, 2013 2:11:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 2:11:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:11:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:11:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:11:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:11:15 下午 
+INFO: ExperimentId: 101  SbName: 'localhost'
+五月 23, 2013 2:11:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 101
+五月 23, 2013 2:11:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:11:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:11:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:11:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:11:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 101
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 101 SbName: localhost
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:11:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:11:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 101
+五月 23, 2013 2:11:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:11:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 2:11:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 2:11:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 2:11:35 下午 
+INFO: ExperimentId: 102  SbName: 'localhost'
+五月 23, 2013 2:11:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 2:11:37 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 46
+五月 23, 2013 2:11:57 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 26
+五月 23, 2013 2:12:10 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 23, 2013 2:12:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 23, 2013 2:12:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 23, 2013 2:12:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 23, 2013 2:12:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:12:27 下午 
+INFO: ExperimentId: 102  SbName: 'localhost'
+五月 23, 2013 2:12:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 102
+五月 23, 2013 2:12:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:21:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:21:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:21:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 23, 2013 2:21:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 23, 2013 2:21:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 23, 2013 2:21:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 23, 2013 2:21:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 23, 2013 2:21:43 下午 
+INFO: ExperimentId: 103  SbName: 'localhost'
+五月 23, 2013 2:21:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 23, 2013 2:21:45 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 78
+五月 23, 2013 2:22:05 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 58
+五月 23, 2013 2:22:25 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 22
+五月 23, 2013 2:22:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:22:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:22:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:22:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:22:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.cancel(): Called
+ >> ExperimentId: 103
+五月 23, 2013 2:22:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.cancel(): Completed
+ << Success: true
+五月 23, 2013 2:22:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 23, 2013 2:22:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 23, 2013 2:22:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 23, 2013 2:22:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 23, 2013 2:22:36 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 23
+五月 23, 2013 2:22:47 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 12
+五月 23, 2013 2:22:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 23, 2013 2:22:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 23, 2013 2:22:58 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:23:00 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:23:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:23:04 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 23, 2013 2:23:06 下午 
+SEVERE: uq.ilabs.library.lab.utilities.XmlUtilitiesException: XML string is not specified!
+五月 23, 2013 2:23:06 下午 
+INFO: ExperimentId: 103  SbName: 'localhost'
+五月 23, 2013 2:23:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 103
+五月 23, 2013 2:23:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 23, 2013 2:24:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 23, 2013 2:24:24 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 24, 2013 12:46:04 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 24, 2013 12:46:04 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 24, 2013 12:46:04 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 24, 2013 12:46:04 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 24, 2013 12:46:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 24, 2013 12:46:07 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 24, 2013 12:46:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 24, 2013 12:46:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:46:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:46:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 24, 2013 12:46:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 24, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 12:46:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 12:47:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 12:47:01 下午 
+INFO: ExperimentId: 104  SbName: 'localhost'
+五月 24, 2013 12:47:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 12:47:03 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 75
+五月 24, 2013 12:47:23 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 55
+五月 24, 2013 12:47:43 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 22
+五月 24, 2013 12:47:54 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 11
+五月 24, 2013 12:47:59 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 24, 2013 12:48:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 22
+五月 24, 2013 12:48:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 11
+五月 24, 2013 12:48:18 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 24, 2013 12:48:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 24, 2013 12:48:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:48:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:48:27 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:48:29 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:48:32 下午 
+INFO: ExperimentId: 104  SbName: 'localhost'
+五月 24, 2013 12:48:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 104
+五月 24, 2013 12:48:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 12:48:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:48:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:48:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:48:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 104
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 104 SbName: localhost
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:48:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:48:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 104
+五月 24, 2013 12:48:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 12:49:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 12:49:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 12:49:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 12:49:13 下午 
+INFO: ExperimentId: 105  SbName: 'localhost'
+五月 24, 2013 12:49:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 12:49:14 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 146
+五月 24, 2013 12:49:34 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 126
+五月 24, 2013 12:49:55 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 104
+五月 24, 2013 12:50:15 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 84
+五月 24, 2013 12:50:35 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 64
+五月 24, 2013 12:50:55 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 44
+五月 24, 2013 12:51:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 41
+五月 24, 2013 12:51:35 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 21
+五月 24, 2013 12:51:45 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 11
+五月 24, 2013 12:51:50 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 6
+五月 24, 2013 12:51:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 24, 2013 12:51:55 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:51:57 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:51:59 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:03 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:52:17 下午 
+INFO: ExperimentId: 105  SbName: 'localhost'
+五月 24, 2013 12:52:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 105
+五月 24, 2013 12:52:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 12:55:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:55:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:55:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:55:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 105
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 105 SbName: localhost
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:55:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:55:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 105
+五月 24, 2013 12:55:24 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 12:55:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 12:55:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 12:55:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 12:55:38 下午 
+INFO: ExperimentId: 106  SbName: 'localhost'
+五月 24, 2013 12:55:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 12:55:39 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 24, 2013 12:55:59 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 24, 2013 12:56:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 24, 2013 12:56:23 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 24, 2013 12:56:26 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 24, 2013 12:56:32 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 12:56:35 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 12:56:37 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 12:56:39 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:56:42 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 12:56:44 下午 
+INFO: ExperimentId: 106  SbName: 'localhost'
+五月 24, 2013 12:56:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 106
+五月 24, 2013 12:56:44 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 12:58:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:58:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:58:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:58:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 106
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 106 SbName: localhost
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:58:55 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:58:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 106
+五月 24, 2013 12:58:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 12:59:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 12:59:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 12:59:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 12:59:33 下午 
+INFO: ExperimentId: 107  SbName: 'localhost'
+五月 24, 2013 12:59:33 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 12:59:34 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 82
+五月 24, 2013 12:59:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 12:59:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 12:59:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 12:59:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 12:59:54 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 62
+五月 24, 2013 1:00:15 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 24
+五月 24, 2013 1:00:27 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 12
+五月 24, 2013 1:00:33 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 24, 2013 1:00:36 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 24, 2013 1:00:38 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 27
+五月 24, 2013 1:00:51 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 14
+五月 24, 2013 1:00:58 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 1:01:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 1:01:03 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 1:01:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:01:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:01:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:01:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:01:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:01:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:01:17 下午 
+INFO: ExperimentId: 107  SbName: 'localhost'
+五月 24, 2013 1:01:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 107
+五月 24, 2013 1:01:17 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 107
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 107 SbName: localhost
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 1:04:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 1:04:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 107
+五月 24, 2013 1:04:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 1:04:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 1:04:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 1:17:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 1:17:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 1:17:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 1:17:19 下午 
+INFO: ExperimentId: 108  SbName: 'localhost'
+五月 24, 2013 1:17:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 1:17:21 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 24, 2013 1:17:41 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 24, 2013 1:17:59 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 24, 2013 1:18:05 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 24, 2013 1:18:08 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 24, 2013 1:18:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 1:18:17 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 1:18:19 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 1:18:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:18:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:18:25 下午 
+INFO: ExperimentId: 108  SbName: 'localhost'
+五月 24, 2013 1:18:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 108
+五月 24, 2013 1:18:25 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 1:20:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 1:20:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 1:20:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 1:20:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 1:20:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 108
+五月 24, 2013 1:20:09 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 108 SbName: localhost
+五月 24, 2013 1:20:09 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 1:20:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 1:20:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 1:20:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 1:20:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 1:20:10 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 1:20:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 108
+五月 24, 2013 1:20:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 1:37:21 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 1:37:22 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 1:40:53 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 1:40:53 下午 
+INFO: ExperimentId: 109  SbName: 'localhost'
+五月 24, 2013 1:40:53 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 1:40:55 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 66
+五月 24, 2013 1:40:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 1:40:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 1:40:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 1:40:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 1:40:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.cancel(): Called
+ >> ExperimentId: 109
+五月 24, 2013 1:40:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.cancel(): Completed
+ << Success: true
+五月 24, 2013 1:40:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 1:40:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 1:40:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 1:40:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 1:41:15 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 46
+五月 24, 2013 1:41:35 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 24, 2013 1:41:43 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 8
+五月 24, 2013 1:41:47 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 19
+五月 24, 2013 1:41:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 24, 2013 1:42:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 24, 2013 1:42:03 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 24, 2013 1:42:05 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:42:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:42:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:42:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 1:42:13 下午 
+INFO: ExperimentId: 109  SbName: 'localhost'
+五月 24, 2013 1:42:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 109
+五月 24, 2013 1:42:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 109
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 109 SbName: localhost
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:02:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:02:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:02:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:02:40 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 109
+五月 24, 2013 2:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:02:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 2:02:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 2:02:58 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 2:02:59 下午 
+INFO: ExperimentId: 110  SbName: 'localhost'
+五月 24, 2013 2:02:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 2:03:00 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 24, 2013 2:03:20 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 24, 2013 2:03:38 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 24, 2013 2:03:44 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 24, 2013 2:03:47 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 24, 2013 2:03:53 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 2:03:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 2:03:58 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 2:04:00 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:04:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:04:04 下午 
+INFO: ExperimentId: 110  SbName: 'localhost'
+五月 24, 2013 2:04:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 110
+五月 24, 2013 2:04:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 110
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 110 SbName: localhost
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:04:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:04:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 110
+五月 24, 2013 2:04:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:12:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 110
+五月 24, 2013 2:12:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:12:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 2:12:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 2:12:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 2:12:38 下午 
+INFO: ExperimentId: 111  SbName: 'localhost'
+五月 24, 2013 2:12:38 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 2:12:40 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 82
+五月 24, 2013 2:13:00 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 62
+五月 24, 2013 2:13:20 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 24
+五月 24, 2013 2:13:32 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 12
+五月 24, 2013 2:13:38 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 6
+五月 24, 2013 2:13:41 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 3
+五月 24, 2013 2:13:43 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 27
+五月 24, 2013 2:13:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 14
+五月 24, 2013 2:14:03 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 2:14:06 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 2:14:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:14:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:14:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:14:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:14:08 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 111
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 111 SbName: localhost
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 82  RemainingRuntime: 1
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:14:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:14:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:14:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 110
+五月 24, 2013 2:14:11 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:14:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:14:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:14:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:14:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:14:13 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:14:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 111
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 111 SbName: localhost
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 82  RemainingRuntime: 1
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:14:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:14:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:14:18 下午 
+INFO: ExperimentId: 111  SbName: 'localhost'
+五月 24, 2013 2:14:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 111
+五月 24, 2013 2:14:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:39:26 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:39:26 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:39:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:39:27 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 111
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 111 SbName: localhost
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:39:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:39:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 111
+五月 24, 2013 2:39:30 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:40:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 2:40:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 2:40:15 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 2:40:16 下午 
+INFO: ExperimentId: 112  SbName: 'localhost'
+五月 24, 2013 2:40:16 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 2:40:17 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 157
+五月 24, 2013 2:40:37 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 137
+五月 24, 2013 2:40:57 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 112
+五月 24, 2013 2:41:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 92
+五月 24, 2013 2:41:37 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 72
+五月 24, 2013 2:41:57 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 52
+五月 24, 2013 2:42:17 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 32
+五月 24, 2013 2:42:33 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 24, 2013 2:42:41 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 28
+五月 24, 2013 2:42:55 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 14
+五月 24, 2013 2:43:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 2:43:06 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 2:43:08 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 2:43:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:43:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:43:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:43:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:43:18 下午 
+INFO: ExperimentId: 112  SbName: 'localhost'
+五月 24, 2013 2:43:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 112
+五月 24, 2013 2:43:18 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:47:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:47:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:47:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:47:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 112
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 112 SbName: localhost
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:47:45 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:47:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 112
+五月 24, 2013 2:47:47 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:47:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 2:47:54 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 2:47:56 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 2:47:56 下午 
+INFO: ExperimentId: 113  SbName: 'localhost'
+五月 24, 2013 2:47:57 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 2:47:58 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 24, 2013 2:48:18 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 24, 2013 2:48:36 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 24, 2013 2:48:42 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 24, 2013 2:48:45 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 24, 2013 2:48:51 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 2:48:54 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 2:48:56 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 2:48:58 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:49:00 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 2:49:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:49:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:49:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:49:01 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 113
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 113 SbName: localhost
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 1
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:49:02 下午 
+INFO: ExperimentId: 113  SbName: 'localhost'
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 113
+五月 24, 2013 2:49:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:49:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 113
+五月 24, 2013 2:49:04 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 113 SbName: localhost
+五月 24, 2013 2:49:04 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Completed  EstRuntime: 0  RemainingRuntime: 0
+五月 24, 2013 2:49:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:49:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:49:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:49:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:49:05 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:49:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 113
+五月 24, 2013 2:49:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 2:49:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 2:49:29 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 2:49:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 2:49:42 下午 
+INFO: ExperimentId: 114  SbName: 'localhost'
+五月 24, 2013 2:49:42 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 2:49:43 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 24, 2013 2:50:04 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 24, 2013 2:50:22 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 18
+五月 24, 2013 2:50:31 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 9
+五月 24, 2013 2:50:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:50:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:50:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:50:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 6
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:50:34 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:50:35 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 5
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 4
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:50:35 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 3
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:50:36 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 3
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:50:37 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 3
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 2
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:50:37 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:51:39 下午 
+SEVERE: javax.xml.ws.WebServiceException: java.net.SocketException: Connection reset
+五月 24, 2013 2:51:39 下午 
+SEVERE: javax.xml.ws.ProtocolException: LabEquipment is unaccessible!
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:51:39 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 1
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Called
+ >> ExperimentId: 114
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Called
+ >> ExperimentId: 114 SbName: localhost
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.library.labserver.engine.LabExperimentManager.GetLabExperimentStatus(): Completed
+ << StatusCode: Running  EstRuntime: 56  RemainingRuntime: 1
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getExperimentStatus(): Completed
+五月 24, 2013 2:51:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:52:39 下午 
+SEVERE: javax.xml.ws.WebServiceException: java.net.SocketException: Connection reset
+五月 24, 2013 2:52:39 下午 
+SEVERE: javax.xml.ws.ProtocolException: LabEquipment is unaccessible!
+五月 24, 2013 2:52:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:52:39 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 2:52:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 2:52:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Called
+ >> UserGroup: DummyServiceBroker  PriorityHint: 0
+五月 24, 2013 2:52:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getEffectiveQueueLength(): Completed
+五月 24, 2013 2:52:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 24, 2013 2:52:41 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:43 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:45 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:47 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:49 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:51 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:53 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:55 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:57 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:52:59 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:01 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:03 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:05 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:07 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:09 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:11 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:13 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:15 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:18 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:20 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:22 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:24 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:26 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:28 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:36 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:38 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:40 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:42 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:44 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 1
+五月 24, 2013 2:53:46 下午 
+SEVERE: uq.ilabs.library.lab.utilities.XmlUtilitiesException: XML string is not specified!
+五月 24, 2013 2:53:46 下午 
+INFO: ExperimentId: 114  SbName: 'localhost'
+五月 24, 2013 2:53:46 下午 
+SEVERE: com.sun.xml.ws.client.ClientTransportException: 服务器发送了 HTTP 状态代码 503: Service Unavailable
+五月 24, 2013 2:53:46 下午 
+SEVERE: javax.xml.ws.ProtocolException: ServiceBroker is unaccessible!
+五月 24, 2013 2:53:46 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 24, 2013 3:03:04 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 24, 2013 3:03:04 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 24, 2013 3:03:04 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 24, 2013 3:03:04 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 24, 2013 3:03:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 24, 2013 3:03:07 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 24, 2013 3:03:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 24, 2013 3:03:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 24, 2013 3:03:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 24, 2013 3:03:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 24, 2013 3:03:08 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 24, 2013 3:03:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 114
+五月 24, 2013 3:03:09 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 3:03:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 24, 2013 3:03:28 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 24, 2013 3:04:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 24, 2013 3:04:12 下午 
+INFO: ExperimentId: 115  SbName: 'localhost'
+五月 24, 2013 3:04:12 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 24, 2013 3:04:14 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 56
+五月 24, 2013 3:04:34 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 36
+五月 24, 2013 3:04:52 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 13
+五月 24, 2013 3:04:58 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 7
+五月 24, 2013 3:05:01 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 13
+五月 24, 2013 3:05:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 7
+五月 24, 2013 3:05:10 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 4
+五月 24, 2013 3:05:12 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 2
+五月 24, 2013 3:05:14 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 3:05:16 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 24, 2013 3:05:18 下午 
+INFO: ExperimentId: 115  SbName: 'localhost'
+五月 24, 2013 3:05:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 115
+五月 24, 2013 3:05:19 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 24, 2013 3:07:04 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 24, 2013 3:07:04 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
+五月 27, 2013 7:02:39 下午 uq.ilabs.library.lab.utilities.Logfile CreateLogger
+INFO: 
+Logfile Name: C:\NetBeans327\UQ-iLab-BatchLabServer-Java-master\Radioactivity\LabServer\build\web\Logfiles\LabServer.log
+Logging Level: INFO
+五月 27, 2013 7:02:39 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CreateLogger(): Completed
+五月 27, 2013 7:02:39 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Called
+ >> LoggingLevel: INFO
+五月 27, 2013 7:02:39 下午 
+INFO: uq.ilabs.labserver.service.ServiceBrokerAuthenticator.GetInitParameters(): Completed
+ << Success: true
+五月 27, 2013 7:02:39 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Called
+五月 27, 2013 7:02:42 下午 
+INFO: uq.ilabs.library.labequipment.LabEquipmentAPI.GetTimeUntilReady(): Completed
+ << TimeUntilReady: 5 seconds
+五月 27, 2013 7:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.LabServerServiceBean(): Completed
+五月 27, 2013 7:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Called
+五月 27, 2013 7:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabStatus(): Completed
+五月 27, 2013 7:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Called
+五月 27, 2013 7:02:43 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.getLabConfiguration(): Completed
+五月 27, 2013 7:04:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 27, 2013 7:04:07 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 27, 2013 7:05:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Called
+五月 27, 2013 7:05:02 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.validate(): Completed
+五月 27, 2013 7:05:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Called
+五月 27, 2013 7:05:06 下午 
+INFO: ExperimentId: 116  SbName: 'localhost'
+五月 27, 2013 7:05:06 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.submit(): Completed
+五月 27, 2013 7:05:08 下午 
+INFO: ExecuteStatus: Created  TimeRemaining: 157
+五月 27, 2013 7:05:28 下午 
+INFO: ExecuteStatus: Starting  TimeRemaining: 137
+五月 27, 2013 7:05:48 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 112
+五月 27, 2013 7:06:08 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 92
+五月 27, 2013 7:06:28 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 72
+五月 27, 2013 7:06:48 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 52
+五月 27, 2013 7:07:08 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 32
+五月 27, 2013 7:07:24 下午 
+INFO: ExecuteStatus: Running  TimeRemaining: 16
+五月 27, 2013 7:07:32 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 40
+五月 27, 2013 7:07:52 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 20
+五月 27, 2013 7:08:02 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 10
+五月 27, 2013 7:08:07 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 5
+五月 27, 2013 7:08:09 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 3
+五月 27, 2013 7:08:11 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:13 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:15 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:17 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:19 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:21 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:23 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:25 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:27 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:29 下午 
+INFO: ExecuteStatus: Stopping  TimeRemaining: 1
+五月 27, 2013 7:08:32 下午 
+INFO: ExperimentId: 116  SbName: 'localhost'
+五月 27, 2013 7:08:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Called
+ >> ExperimentId: 116
+五月 27, 2013 7:08:32 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.retrieveResult(): Completed
+五月 27, 2013 7:11:59 下午 
+INFO: uq.ilabs.labserver.service.LabServerServiceBean.preDestroy(): Called
+五月 27, 2013 7:11:59 下午 
+INFO: uq.ilabs.library.lab.utilities.Logfile.CloseLogger(): Called
